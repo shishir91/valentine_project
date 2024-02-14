@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/valentine_project/static/css/main.2f07e89c.css",
+    "main.js": "/valentine_project/static/js/main.3f248e4b.js",
+    "static/media/Photo_10.JPG": "/valentine_project/static/media/Photo_10.e2f68f91f361ce17eed2.JPG",
+    "static/media/Photo_6.JPG": "/valentine_project/static/media/Photo_6.578a1dcfc8116b5d3737.JPG",
+    "static/media/Photo_3.JPG": "/valentine_project/static/media/Photo_3.cf5e1c94f0d49533b1b9.JPG",
+    "static/media/Photo_8.JPG": "/valentine_project/static/media/Photo_8.c5977201d7932d9370b8.JPG",
+    "static/media/Photo_16.JPG": "/valentine_project/static/media/Photo_16.b3689abde57f12a70f1b.JPG",
+    "static/media/Photo_5.JPG": "/valentine_project/static/media/Photo_5.f13050363c6f8715b3dd.JPG",
+    "static/media/Photo_4.JPG": "/valentine_project/static/media/Photo_4.81749aa5d491728e77bc.JPG",
+    "static/media/Photo_2.JPG": "/valentine_project/static/media/Photo_2.fff2380378d076d8df5d.JPG",
+    "static/media/Photo_7.JPG": "/valentine_project/static/media/Photo_7.80d8fe6e90c7a500b5ed.JPG",
+    "static/media/Photo_1.JPG": "/valentine_project/static/media/Photo_1.a58c514c2c26d01be68c.JPG",
+    "static/media/Photo_17.JPG": "/valentine_project/static/media/Photo_17.c72b897be7104b080789.JPG",
+    "static/media/pngegg.png": "/valentine_project/static/media/pngegg.2939a3e050e3a4055b27.png",
+    "static/media/Photo_12.JPG": "/valentine_project/static/media/Photo_12.b49afa00ef18ad1a03cf.JPG",
+    "static/media/Photo_15.JPG": "/valentine_project/static/media/Photo_15.622a133d931e4598db9c.JPG",
+    "static/media/Photo_11.JPG": "/valentine_project/static/media/Photo_11.badd4be458b212fdeabd.JPG",
+    "static/media/Photo_9.JPG": "/valentine_project/static/media/Photo_9.11bc9d74cf798e493f5c.JPG",
+    "static/media/Photo_14.JPG": "/valentine_project/static/media/Photo_14.e0733f67ed38e2f38714.JPG",
+    "static/media/Photo_13.JPG": "/valentine_project/static/media/Photo_13.62c733c9ffbe2c61e631.JPG",
+    "static/media/please.png": "/valentine_project/static/media/please.5af257fa8c96174cdc1b.png",
+    "index.html": "/valentine_project/index.html",
+    "main.2f07e89c.css.map": "/valentine_project/static/css/main.2f07e89c.css.map",
+    "main.3f248e4b.js.map": "/valentine_project/static/js/main.3f248e4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f07e89c.css",
+    "static/js/main.3f248e4b.js"
+  ]
+}
