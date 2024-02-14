@@ -1,0 +1,42 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* body {
+  font-family: Arial, sans-serif;
+  
+} */
+
+body, .main {
+  background-color: #f7d9e4; /* Light pink background */
+  background-image: url('pngegg.png'); /* Heart pattern overlay */
+  background-repeat: repeat;
+  font-family: 'Roboto', sans-serif; /* Romantic font */
+}
+
+/* center{
+  background-color: #f7d9e4;
+} */
+
+span{
+  font-size: xx-large;
+  color: red;
+}
+
+.butn {
+  background-color: #ff1493; 
+  text-decoration: none;
+  border: none;
+}
+
+.butn:hover {
+  background-color: rgb(255, 98, 125); 
+}
+
+
+.photos{
+  width: 250px;
+}
